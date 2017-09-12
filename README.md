@@ -1,10 +1,10 @@
 # blackcat-cms-file-upload
 blackcat cms file upload
 
-  		BlackCat CMS 1.2.2.The vulnerability appears in the \backend\media\ajax_rename.php file,this file does not
+  BlackCat CMS 1.2.2.The vulnerability appears in the \backend\media\ajax_rename.php file,this file does not
 validate the file suffix that the user enters, and the user can change the suffix name to an executable script file by changing the contents of the extension parameter.
 
-  		remote authenticated users upload a .jpg or other permitted file types,then rename the file,fill in a new
+  remote authenticated users upload a .jpg or other permitted file types,then rename the file,fill in a new
 name for "new name" parameter and extension .php. 
 
 upload jpg or other permitted file types
