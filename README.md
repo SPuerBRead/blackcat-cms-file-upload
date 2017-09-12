@@ -7,8 +7,8 @@ validate the file suffix that the user enters, and the user can change the suffi
 name for "new name" parameter and extension .php. 
 
 upload jpg or other permitted file types
-![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic1.jpg)
+![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic1.png)
 change name
-![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic2.jpg)
+![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic2.png)
 get shell
-![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic3.jpg)
+![image](https://github.com/SPuerBRead/blackcat-cms-file-upload//pic3.png)
